@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Trench';
     font-weight: 400;
-    src: url('./assets/trench100free.otf');
+    src: url('./img/trench100free.otf');
   }
   
   :root {
@@ -21,6 +21,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    src: url('./img/trench100free.otf');
   }
   
   header {
